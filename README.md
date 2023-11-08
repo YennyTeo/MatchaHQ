@@ -7,11 +7,11 @@ Within the website's framework, users could readily access vital details such as
 
 ## Screenshots of MatchaHQ's Websites
 Home Page
-![image](https://github.com/YennyTeo/MatchaHQ/assets/93497520/a1e80f50-a10b-4469-80ba-a4a4b6618c62)
-![image](https://github.com/YennyTeo/MatchaHQ/assets/93497520/db56316f-4be4-4650-b051-8f38ff2657db)
+![home1](https://github.com/YennyTeo/MatchaHQ/assets/93497520/5cabd053-d6b3-409e-bea9-f0978aaa0fae)
+![home2](https://github.com/YennyTeo/MatchaHQ/assets/93497520/45e22a6e-4fa0-4866-bbe1-4c3faabb5724)
 
 Registration Page
-![image](https://github.com/YennyTeo/MatchaHQ/assets/93497520/d8471357-6647-4662-8e8c-6dc0bdf2f91e)
+![registration](https://github.com/YennyTeo/MatchaHQ/assets/93497520/6c3fcaf1-8787-4eab-9d44-afe4be6deaf2)
 
 Login Page
 ![image](https://github.com/YennyTeo/MatchaHQ/assets/93497520/a2f84afe-89a4-4fc9-8342-38c99020d677)
