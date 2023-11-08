@@ -11,9 +11,11 @@ Home Page
 ![home2](https://github.com/YennyTeo/MatchaHQ/assets/93497520/45e22a6e-4fa0-4866-bbe1-4c3faabb5724)
 
 Registration Page
+
 ![registration](https://github.com/YennyTeo/MatchaHQ/assets/93497520/6c3fcaf1-8787-4eab-9d44-afe4be6deaf2)
 
 Login Page
+
 ![image](https://github.com/YennyTeo/MatchaHQ/assets/93497520/a2f84afe-89a4-4fc9-8342-38c99020d677)
 
 Menu Page
